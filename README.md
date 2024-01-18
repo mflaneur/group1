@@ -1,5 +1,5 @@
 This is a readme test file typed in class.
 hi
-ggad and say somethinggit g some Pssignment
+ggad and say somethinggit Pssignment
 451
 !
